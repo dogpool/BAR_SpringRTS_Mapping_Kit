@@ -1,1 +1,0 @@
-Clone or download SpringBoard here.

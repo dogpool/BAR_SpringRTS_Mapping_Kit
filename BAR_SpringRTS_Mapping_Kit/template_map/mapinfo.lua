@@ -1,1 +1,0 @@
--- sample mapinfo.lua content here
