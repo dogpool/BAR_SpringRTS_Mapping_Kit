@@ -1,0 +1,1 @@
+-- sample mapoptions.lua content here
